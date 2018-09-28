@@ -1,0 +1,58 @@
+body {
+
+
+
+text-align: center;
+
+font-size: 18pt;
+
+
+}
+
+
+
+.one {
+
+    width: 200px;
+
+    height: 300px;
+
+    float:left;
+
+    background-color: #212121;
+
+    font-family: "Tahoma", sans-serif;
+
+}
+
+
+
+.two {
+
+    width: 500px;
+
+    height: 400px;
+
+    float:left;
+
+    background-color: #F01;
+
+    font-family: "Arial", sans-serif;
+
+}
+
+
+
+.three {
+
+    width: 200px;
+
+    height: 500px;
+
+    float:left;
+
+    background-color: #C05;
+
+    font-family: "Impact", sans-serif;
+
+}
